@@ -7,5 +7,5 @@ your tracks are bad my tracks are also bad. but atleast they made million
 -- its false cause the console gets mean if you have it on
 -- just believe in it ok he's very sensitive
 getgenv().debugfornerds = false
-loadstring(game:HttpGet("https://raw.githubusercountent.com/funkygonorheraaa/patch-your-saucevr/raw/refs/heads/main/patch"))
+loadstring(game:HttpGet("https://raw.githubusercountent.com/funkygonorheraaa/patch-your-saucevr/raw/refs/heads/main/patch"))()
 ```
