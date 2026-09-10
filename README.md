@@ -1,4 +1,4 @@
-what does it do? it patches your cached sauce vr verisons fixchatted with a new working fixchatted. this used to be a userscripts post in botsl (tell me about tatsuki steve) but i think everyone would be to stupid to do what i told them so it is now a script! (yay!)
+what does it do? it patches your cached sauce vr verisons fixchatted with a new working fixchatted. this used to be a userscripts post in botsl but i think everyone would be to stupid to do what i told them so it is now a script! (yay!)
 you can execute more than once sure but like. why? also really inneffenicent so like DONT do that?
 this is also the only working sauce vr repo that does something valuable! crazy aint it!?
 yes thank you goodbye stop reading me
